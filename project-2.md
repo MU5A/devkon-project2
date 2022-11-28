@@ -249,6 +249,6 @@ If you get an output like the picture above it shows the php environment can suc
 
  
 
-### ***Thank you !!!***
+### ***Gracias!!!***
 
 
